@@ -5,4 +5,4 @@ I am third line from local
 I am fourth line from remote
 I am fifth line from local
 I am sixth line from remote
-
+I am seventh line from remote
